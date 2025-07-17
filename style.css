@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+}
+.text-primary {
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+.btn {
+    transition: all 0.3s;
+}
+.btn:hover {
+    transform: scale(1.05);
+}
